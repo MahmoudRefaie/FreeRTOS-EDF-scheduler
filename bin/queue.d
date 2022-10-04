@@ -1,0 +1,17 @@
+.\bin\queue.o: source\FreeRTOS\queue.c
+.\bin\queue.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\bin\queue.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\bin\queue.o: .\header\FreeRTOS\FreeRTOS.h
+.\bin\queue.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\bin\queue.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\bin\queue.o: .\FreeRTOSConfig.h
+.\bin\queue.o: D:\Keil_v5\ARM\INC\Philips\lpc21xx.h
+.\bin\queue.o: .\header\GPIO.h
+.\bin\queue.o: .\header\FreeRTOS\projdefs.h
+.\bin\queue.o: .\header\FreeRTOS\portable.h
+.\bin\queue.o: .\header\FreeRTOS\deprecated_definitions.h
+.\bin\queue.o: .\header\FreeRTOS\portmacro.h
+.\bin\queue.o: .\header\FreeRTOS\mpu_wrappers.h
+.\bin\queue.o: .\header\FreeRTOS\task.h
+.\bin\queue.o: .\header\FreeRTOS\list.h
+.\bin\queue.o: .\header\FreeRTOS\queue.h

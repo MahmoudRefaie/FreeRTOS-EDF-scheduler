@@ -1,0 +1,28 @@
+{
+    "files.associations": {
+        "hw_ints.h": "c",
+        "hw_timer.h": "c",
+        "interrupt.h": "c",
+        "debug.h": "c",
+        "tm4c123gh6pm.h": "c",
+        "hw_sysctl.h": "c",
+        "hw_memmap.h": "c",
+        "hw_types.h": "c",
+        "stdlib.h": "c",
+        "semphr.h": "c",
+        "task.h": "c",
+        "freertos.h": "c",
+        "gpio.h": "c",
+        "stdint.h": "c",
+        "platform_types.h": "c",
+        "std_types.h": "c",
+        "stdbool.h": "c",
+        "freertosconfig.h": "c",
+        "stddef.h": "c",
+        "lpc21xx.h": "c",
+        "serial.h": "c",
+        "stack_macros.h": "c",
+        "timers.h": "c",
+        "gpio_cfg.h": "c"
+    }
+}
